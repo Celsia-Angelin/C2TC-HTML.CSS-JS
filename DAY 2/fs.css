@@ -1,0 +1,39 @@
+.rose
+{
+	width:50%;
+	margin: auto;
+	background-color: lightpink;
+	padding: 10px;
+	border-top: 5px hotpink solid;
+}
+
+.click
+{
+	color:blueviolet;
+}
+
+.read
+{
+	color:darkgreen;
+	font-size:15px ;
+
+}
+
+.lotus
+{
+    border: 3px black solid;
+    background-color:cornsilk;
+    padding: 10px;
+    border: radiusmargin 15px;
+}
+
+.border
+{
+    /* flaot will adjust the size of a element according to a browser size, If two element dont fit into same width,it will automatically shifted to nect line*/
+    float: left;
+    width:25%;
+    border-top: 10px purple solid;
+    padding: 5px;
+    background-color:lightsteelblue;
+    box-sizing: border-box;
+}
