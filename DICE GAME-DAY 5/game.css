@@ -1,0 +1,45 @@
+.container
+{
+  text-align:center;
+  margin:auto;
+  width:70%;
+}
+
+.dice
+{
+  text-align:center;
+  display: inline-block;
+}
+
+body
+{
+  background-color:pink;
+
+}
+
+h1
+{
+  font-size: 4rem;
+  font-family:'canbria',cursive;
+  color:Purple;
+}
+
+p
+{
+  font-size: 2rem;
+  font-family:'canbria',cursive;
+  color:deeppink;
+}
+
+img
+{
+  width:80%;
+}
+
+footer
+{
+  color:Green;
+  text-align:center;
+  font-family: sans-serif;
+  margin-top: auto;
+}
